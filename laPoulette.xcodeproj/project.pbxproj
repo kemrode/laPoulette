@@ -10,6 +10,7 @@
 		840F06E8293E88AD0074FB70 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840F06E7293E88AD0074FB70 /* StartViewController.swift */; };
 		840F06EA293E8E910074FB70 /* Chicken.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840F06E9293E8E910074FB70 /* Chicken.swift */; };
 		840F06EC293E8EF10074FB70 /* ChickenData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840F06EB293E8EF10074FB70 /* ChickenData.swift */; };
+		840F06EF2940DAC90074FB70 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 840F06EE2940DAC90074FB70 /* README.md */; };
 		843BD86C293E807000D562AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BD86B293E807000D562AB /* AppDelegate.swift */; };
 		843BD86E293E807000D562AB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BD86D293E807000D562AB /* SceneDelegate.swift */; };
 		843BD873293E807000D562AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 843BD871293E807000D562AB /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 		840F06E7293E88AD0074FB70 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
 		840F06E9293E8E910074FB70 /* Chicken.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chicken.swift; sourceTree = "<group>"; };
 		840F06EB293E8EF10074FB70 /* ChickenData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChickenData.swift; sourceTree = "<group>"; };
+		840F06EE2940DAC90074FB70 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		843BD868293E807000D562AB /* laPoulette.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = laPoulette.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		843BD86B293E807000D562AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		843BD86D293E807000D562AB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				843BD86B293E807000D562AB /* AppDelegate.swift */,
 				843BD86D293E807000D562AB /* SceneDelegate.swift */,
 				843BD879293E807100D562AB /* Info.plist */,
+				840F06EE2940DAC90074FB70 /* README.md */,
 			);
 			path = laPoulette;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				843BD878293E807100D562AB /* LaunchScreen.storyboard in Resources */,
 				843BD875293E807100D562AB /* Assets.xcassets in Resources */,
+				840F06EF2940DAC90074FB70 /* README.md in Resources */,
 				843BD873293E807000D562AB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
